@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fayjul
 - 👀 I’m interested in ...  web development, Machine Learning, and Problem solving.
-- 🌱 I’m currently learning ... MERN stack
+- 🌱 I’m currently learning ... Angular, ASP .Net.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... fayjul79@gmail.com
 
