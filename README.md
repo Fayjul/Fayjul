@@ -8,7 +8,7 @@ I'm an enthusiastic Software Engineer with a passion for problem-solving and a c
 - 💼 I'm currently working as an Associate Software Engineer at Orbitax, Dhaka, Bangladesh.
 - 🌱 I'm always eager to learn and currently, I'm exploring the world of Microservices, ASP .NET, and Angular.
 - 💡 I have a strong problem-solving background with over 1000 problems solved on various online coding judges.
-- 🏆 I'm in the top 2% globally on Codeforces and have a maximum rating of 1397.
+- 🏆 I'm in the top 2% globally on Codeforces, based on the number of problems solved and have a maximum rating of 1397.
 
 ## Education
 - 🎓 I hold a Bachelor of Computer Science degree from Shahjalal University of Science and Technology
