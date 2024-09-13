@@ -37,7 +37,4 @@ I'm an enthusiastic Software Engineer with a passion for problem-solving and a c
 ## Get in Touch
 - 📧 Email: [fayjul79@gmail.com](mailto:fayjul79@gmail.com)
 - 💼 LinkedIn: [Fayjul Islam](https://www.linkedin.com/in/fayjul/)
-- 🐦 Twitter: [@YourTwitterHandle](Twitter-handle-link)
-- 🌐 Portfolio: [Portfolio Website](portfolio-website-link)
-
 Let's connect and create something amazing together! 😄
